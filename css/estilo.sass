@@ -7,15 +7,40 @@
     font-family: 'Lucida-console'
     src: url('../fonts/lucon.ttf') format("truetype")
 
+header
+    display: flex
+    align-items: center
+    justify-content: center
+
+.logo
+    display: block
+    width: 450px
+    height: 70px
+    background: blue
+    z-index: 5
+
+html
+    width: 100%
+    height: 100%
+    overflow: hidden
+
 body
-    background: #000
+    background: black
     font-family: 'Lucida-console'
     color: var(--white-color)
     margin: 0
     font-size: 1em
+    display: grid
+    grid-template-columns: 1fr
+    grid-template-rows: 2fr 7.3fr 0.7fr
+    grid-column-gap: 0px
+    grid-row-gap: 0px
+    width: 100%
+    height: 100%
 
 .container
     width: 60em
+    height: 100%
     margin: auto
     max-width: 75em
     padding: 0em 1em
@@ -27,8 +52,17 @@ a
     color: var(--white-color)
     text-decoration: none
 
-article, nav
+article
     display: block
+
+nav
+    display: flex
+    align-items: center
+    flex-direction: column
+    justify-content: space-between
+
+nav ul li
+    margin-bottom: 0.2rem
 
 nav li a
     padding: 0.2em 0.5em
@@ -59,6 +93,8 @@ ul
     -webkit-border-radius: 10px
     -moz-border-radius: 10px
     border-radius: 10px
+    top: 3rem
+    position: relative
 
 .borde-juego
     border: 1em solid transparent
@@ -68,9 +104,7 @@ ul
     border-image: url(../img/border-fc.png) 15 round
 
 .borde-noticias
-    border-left: 1em solid transparent
-    border-right: 1em solid transparent
-    border-top: 1em solid transparent
+    border: 1em solid transparent
     padding: 0.2em 0.4em 0.3em
     -webkit-border-image: url(../img/border-fc.png) 15 round /* Safari 3.1-5 */
     -o-border-image: url(../img/border-fc.png) 15 round /* Opera 11-12.1 */
@@ -81,12 +115,10 @@ ul
     width: 18em
     font-size: 0.8em
     position: absolute
-    bottom: 0
-    left: 4em
-    z-index: 10
     height: 4.5em
     overflow: hidden
     overflow-y: scroll
+    right: 0
 
 .noticias ul
     margin-top: 0px
@@ -98,45 +130,33 @@ ul
 
 .noticias-titulo
     position: absolute
-    bottom: 3.7em
-    z-index: 20
-    left: 9em
+    z-index: 1
     font-size: 0.9em
     line-height: 0em
+    right: 5.25rem
+    top: -0.8rem
 
 .flex-box
     display: flex
 
 .contenido
     justify-content: space-between
+    height: 100%
 
 .pie
     justify-content: center
 
 .fila
     width: 100%
+    height: 6.5rem
     position: relative
-
-/* .home .group-hero
-    width: 24em
-    display: -ms-flexbox
-    display: -webkit-flex
-    display: flex
-    height: 35em
-    -webkit-justify-content: center
-    -ms-flex-pack: center
-    justify-content: center
-    -webkit-align-items: center
-    -ms-flex-align: center
-    align-items: center
-    position: relative */
 
 .home .group-hero
     width: 24em
     display: -ms-flexbox
     display: -webkit-flex
     display: flex
-    height: 35em
+    height: 100%
     -webkit-justify-content: center
     -ms-flex-pack: center
     justify-content: center
@@ -146,33 +166,36 @@ ul
     flex-direction: column
     position: relative
 
+.trailer-box
+    position: relative
+    display: flex
+    align-items: center
+    padding-right: 4rem
+    justify-content: center
+    padding-bottom: 4rem
+
+.video
+    width: 27rem
+    height: 16rem
+    background: skyblue
+    position: absolute
+    z-index: 5
+
 .heroe
     position: absolute
     flex-shrink: 0
 
 footer .container
     justify-content: center
-
-/* .matias
-    background: url(../img/matias.png) no-repeat center
-    width: 322px
-    height: 380px
-    z-index: 4
-    bottom: 4.8em */
+    align-items: center
+    display: flex
 
 .matias
     background: url(../img/matias.png) no-repeat center
     width: 322px
     height: 380px
     z-index: 4
-
-/* .leon
-    background: url(../img/leon.png) no-repeat center
-    width: 142px
-    height: 284px
-    z-index: 3
-    left: 2em
-    bottom: 10em */
+    bottom: 0
 
 .leon
     background: url(../img/leon.png) no-repeat center
@@ -180,28 +203,14 @@ footer .container
     height: 284px
     z-index: 3
     align-self: flex-start
-
-/* .william
-    background: url(../img/william.png) no-repeat center
-    width: 288px
-    height: 320px
-    z-index: 1
-    top: 0em
-    left: 4.7em */
+    top: 25%
 
 .william
     background: url(../img/william.png) no-repeat center
     width: 288px
     height: 320px
     z-index: 1
-
-/* .sophie
-    background: url(../img/sophie.png) no-repeat center
-    width: 170px
-    height: 338px
-    z-index: 2
-    right: 3em
-    bottom: 11em */
+    top: 0
 
 .sophie
     background: url(../img/sophie.png) no-repeat center
@@ -209,3 +218,9 @@ footer .container
     height: 338px
     z-index: 2
     align-self: flex-end
+    top: 5%
+
+footer
+    background: #000062
+    display: flex
+    margin-bottom: 0

@@ -248,7 +248,7 @@ nav .menu {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding-right: 4rem;
+  padding-right: 7rem;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -292,11 +292,11 @@ footer .container {
 
 .leon {
   background: url(../img/leon.png) no-repeat center;
-  width: 144px;
-  height: 331px;
-  left: 3.5rem;
+  width: 132px;
+  height: 304px;
+  left: 4rem;
   z-index: 1;
-  bottom: 9rem;
+  bottom: 10rem;
 }
 
 .william {

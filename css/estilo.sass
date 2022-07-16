@@ -7,18 +7,6 @@
     font-family: 'Lucida-console'
     src: url('../fonts/lucon.ttf') format("truetype")
 
-header
-    display: flex
-    align-items: center
-    justify-content: center
-
-.logo
-    display: block
-    width: 450px
-    height: 70px
-    background: blue
-    z-index: 5
-
 html
     width: 100%
     height: 100%
@@ -37,6 +25,18 @@ body
     grid-row-gap: 0px
     width: 100%
     height: 100%
+
+header
+    display: flex
+    align-items: center
+    justify-content: center
+
+.logo
+    display: block
+    width: 450px
+    height: 70px
+    background: blue
+    z-index: 5
 
 h2
     margin-top: 0
@@ -186,9 +186,43 @@ nav .menu
 .video
     width: 27rem
     height: 16rem
-    background: skyblue
+    background: black
     position: absolute
     z-index: 5
+    display: flex
+    justify-content: center
+    align-items: center
+    font-size: 3rem
+    border: 2px solid white
+
+#scrolling::-webkit-scrollbar-track
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3)
+    border-radius: 4px
+
+#scrolling::-webkit-scrollbar
+    width: 8px
+    background-color: #666
+
+#scrolling::-webkit-scrollbar-thumb
+    border-radius: 4px
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3)
+    background-color: #F5F5F5
+
+#scrolling-2::-webkit-scrollbar-track
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3)
+    border-radius: 4px
+
+#scrolling-2::-webkit-scrollbar
+    width: 8px
+    background-color: #1D1D1E
+
+#scrolling-2::-webkit-scrollbar-thumb
+    border-radius: 4px
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3)
+    background-color: #AAE1FF
+
+h3
+    margin-top: 0px
 
 .heroe
     position: absolute
@@ -236,13 +270,48 @@ footer .container
     width: 45rem
     max-height: 25rem
 
-.inner article div.texto-contenido
+.inner article div.texto-contenido, .inner article ul.texto-contenido
     overflow: hidden
     overflow-y: scroll
     height: 100%
     width: 100%
     padding-right: 1rem
     box-sizing: border-box
+
+#no-scrolling
+    overflow-y: hidden
+    padding-right: 0rem
+
+ul.menu-characters
+    text-align: left
+    max-width: 155px
+    width: 100%
+    margin-top: 0px
+    height: 19rem !important
+    padding-right: 0.5rem !important
+
+ul.menu-characters li
+    border: 1px solid white
+    display: inline-block
+    line-height: 0
+
+ul.menu-characters li a
+    display: block
+
+.imagenes-videos-lista li
+    display: inline-block
+
+.imagenes-videos-lista li a
+    border: 1px solid white
+    display: block
+    line-height: 0
+
+.charaters-page
+    width: 100%
+    justify-content: space-between
+
+.character-text
+    max-width: 510px
 
 .data
     display: flex
@@ -256,6 +325,40 @@ footer .container
 
 .data ul li
     margin-bottom: 4px
+
+.world-container
+    max-width: 450px
+    width: 100%
+
+ol.menu-world
+    padding-left: 1.8rem
+    max-width: 200px
+    width: 100%
+    text-align: left
+    margin-top: 0
+    margin-bottom: 0
+
+ol.menu-world li
+    margin-bottom: 10px
+
+.menu-world ul li
+    margin-bottom: 5px
+    margin-top: 5px
+
+.world-text
+    height: 17rem !important
+
+.world-text p
+    margin-top: 0px
+
+ul.imagenes-videos-lista
+    margin-top: 0px
+    margin-bottom: 0px
+    text-align: left
+
+ul.imagenes-videos-lista img
+    width: 125px
+    height: 93px
 
 ul.tips-lista
     padding-left: 1.2rem

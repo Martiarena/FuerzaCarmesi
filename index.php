@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
-  <?php include("includes/head.php"); ?>
+  <head>
+    <meta charset="utf-8">
+    <?php include("includes/head.php"); ?>
+  </head>
   <body>
     <?php include("includes/header.php"); ?>
     <section class="home">

@@ -1,4 +1,4 @@
-<nav>
+<nav id="main-menu">
     <div class="fondo menu">
         <div class="borde-juego">
             <ul >

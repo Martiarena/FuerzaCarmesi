@@ -1,5 +1,3 @@
-<head>
-    <meta charset="utf-8">
     <title>Fuerza Carmes&iacute; | Fantasy RPG</title>
     <link href="css/estilo.css" type="text/css" rel="stylesheet">
     <script src="resources/fancybox/lib/jquery-1.9.0.min.js"></script>
@@ -60,4 +58,3 @@
         border-image: url(img/border-fc-beat-em-up-openbor-indie-game.png) 7;
     }
     </style>
-</head>

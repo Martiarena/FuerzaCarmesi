@@ -25,7 +25,7 @@
                                 <div class="world-container">
                                     <div class="content-wrap">
                                         <section id="himalia">
-                                            <h3>Organizaciones</h3>
+                                            <h3>Himalia</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
 
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
@@ -41,6 +41,22 @@
                                             </div>
                                         </section>
                                         <section id="civilizacion">
+                                            <h3>Civilizaciones</h3>
+                                            <div id="scrolling-2" class="world-text texto-contenido">
+
+                                                <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
+                                                <div class="data">
+                                                    <img class="borde-imagen" src="img/h1.jpg">
+                                                    <ul>
+                                                        <li><strong>Edad:</strong> 19 a&ntilde;os</li>
+                                                        <li><strong>Peso:</strong> 65 kg</li>
+                                                        <li><strong>Altura:</strong> 1.65 m</li>
+                                                        <li><strong>Ocupaci&oacute;n:</strong> Infanter&iacute;a</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section id="organizaciones">
                                             <h3>Organizaciones</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
 

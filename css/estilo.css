@@ -452,6 +452,7 @@ footer .container {
 .world-container {
   max-width: 450px;
   width: 100%;
+  justify-content: space-between;
 }
 
 ol.menu-world {
@@ -470,6 +471,15 @@ ol.menu-world li {
 .menu-world ul li {
   margin-bottom: 5px;
   margin-top: 5px;
+}
+
+.world-container {
+  max-width: 510px;
+  width: 100%;
+}
+
+.world-page {
+  justify-content: space-between;
 }
 
 .world-text {

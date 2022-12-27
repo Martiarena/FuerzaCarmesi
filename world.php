@@ -13,21 +13,21 @@
                 <div class="flex-box contenido">
                     <article class="fondo">
                         <div class="borde-juego">
-                            <h2>Mundo</h2>
                             <div class="tabs flex-box world-page">
                                 <nav>
-                                    <ol class="menu-world">
+                                    <h2>Mundo</h2>
+                                    <ul class="menu-world">
                                         <li><a href="#himalia">Himalia</a></li>
-                                        <li><a href="#civilizacion">Civilizaci&oacute;n</a></li>
-                                        <li><a href="#organizaciones">Organizaciones</a></li>
-                                    </ol>
+                                        <li><a href="#nations">Civilizaci&oacute;n</a></li>
+                                        <li><a href="#places">Lugares</a></li>
+                                    </ul>
                                 </nav>
                                 <div class="world-container">
                                     <div class="content-wrap">
                                         <section id="himalia">
                                             <h3>Himalia</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
-
+                                            <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                                 <div class="data">
                                                     <img class="borde-imagen" src="img/h1.jpg">
@@ -40,8 +40,8 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section id="civilizacion">
-                                            <h3>Civilizaciones</h3>
+                                        <section id="nations">
+                                            <h3>Naciones</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
 
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
@@ -56,8 +56,8 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section id="organizaciones">
-                                            <h3>Organizaciones</h3>
+                                        <section id="places">
+                                            <h3>Lugares</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
 
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>

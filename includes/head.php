@@ -1,3 +1,10 @@
+<?php 
+if (isset($_REQUEST['cod_idioma'])) {
+	$cod_idioma = $_REQUEST['cod_idioma'];
+} else {
+	$cod_idioma ="";
+}
+?>
     <title>Fuerza Carmes&iacute; | Fantasy RPG</title>
     <link href="css/estilo.css" type="text/css" rel="stylesheet">
     <script src="resources/fancybox/lib/jquery-1.9.0.min.js"></script>

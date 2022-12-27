@@ -483,7 +483,20 @@ ol.menu-world li {
 }
 
 .world-text {
-  height: 17rem !important;
+  height: 20rem !important;
+}
+
+.world-page nav {
+  width: 10em;
+}
+
+.tabs.world-page nav ul.menu-world {
+  list-style: decimal !important;
+  padding-left: 2em;
+}
+
+.tabs.world-page nav ul.menu-world li {
+  margin-bottom: 0.4rem;
 }
 
 .world-text p {
@@ -528,3 +541,25 @@ footer {
   display: flex;
   margin-bottom: 0;
 }
+
+.text-credits {
+  padding: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  width: 100%;
+  max-width: 640px;
+  text-align: justify;
+  box-sizing: border-box;
+}
+
+.text-credits h4, .text-credits h5 {
+  margin-top: 0;
+  font-family: "Lucida-console";
+}
+
+.background-popup {
+  color: white;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+

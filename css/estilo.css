@@ -62,7 +62,7 @@ header {
 .logo {
   display: block;
   width: 450px;
-  height: 70px;
+  height: 111px;
   background: blue;
   z-index: 5;
 }
@@ -368,7 +368,7 @@ footer .container {
 }
 
 .inner article {
-  width: 45rem;
+  width: 46.5rem;
   max-height: 25rem;
 }
 
@@ -563,3 +563,114 @@ footer {
   box-sizing: border-box;
 }
 
+@media only screen and (max-width:1024px){
+  body {
+    grid-template-rows: 3fr 8fr 1fr;
+  }
+  .container {
+    width: 470px;
+  }
+  .contenido {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home .group-hero {
+    height: 480px;
+    left: 2rem;
+  }
+  .trailer-box {
+    padding-right: 0rem;
+    padding-bottom: 0rem;
+    height: 260px;
+    width: 100%;
+  }
+  nav#main-menu{
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+  }
+  nav#main-menu .menu {
+    top: 0rem;
+    height: 200px;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    width: 50%; /* Mitad */
+  }
+  .inner article {
+    width: 100%;
+    max-height: 600px;
+    height: 100%;
+  }
+  .fila {
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2rem; /* Mitad */
+    margin-bottom: 3rem; /* Mitad */
+    width: 50%; /* Mitad */
+  }
+  .noticias {
+    position: inherit;
+    right: inherit;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  .noticias-titulo {
+    position: absolute;
+    right: inherit;
+    top: -0.8rem;
+  }
+  .pie {
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .charaters-page {
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .menu-characters {
+    text-align: center;
+    max-width: inherit;
+  }
+  .tabs nav ul {
+    max-width: inherit;
+    width: 1280px;
+  }
+  .inner article nav.texto-contenido {
+    overflow-y: inherit;
+    width: 100%;
+    overflow-x: scroll;
+    padding-right: 0 !important;
+  }
+  .menu-characters {
+    width: 100%;
+    height: 6rem !important;
+    padding-right: 0rem !important;
+    margin-bottom: 1rem;
+  }
+  ul.tips-lista {
+    padding-left: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+
+@media only screen and (max-width:768px){
+  body {
+    grid-template-rows: 1fr 6fr 1fr;
+  }
+  .container {
+    width: 100%;
+  }
+}

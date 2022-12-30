@@ -15,8 +15,10 @@
         <div class="noticias-titulo borde-juego fondo">Noticias</div>
         <div id="scrolling" class="noticias borde-noticias">
             <ul>
-                <li><strong>10 de octubre de 2022</strong><br>¡Publicado el sitio web oficial de Fuerza Carmesí!</li>
-                <li><strong>11 de diciembre de 2022</strong><br>Añadida información de los personajes e historia.</li>
+                <li><strong>10 de octubre de 2023</strong><br>¡Publicado el sitio web oficial de Fuerza Carmesí!</li>
+                <li><strong>11 de diciembre de 2023</strong><br>Añadida información de los personajes e historia.</li>
+                <li><strong>11 de diciembre de 2023</strong><br>Añadidos tips e información sobre el mundo.</li>
+                <li><strong>11 de diciembre de 2023</strong><br>¡Subido Trailer oficial de Fuerza Carmesí!</li>
             </ul>
         </div>
     </div>

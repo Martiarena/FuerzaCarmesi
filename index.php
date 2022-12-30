@@ -5,6 +5,7 @@
     <?php include("includes/head.php"); ?>
   </head>
   <body>
+    <?php include("includes/fondo-img.php"); ?>
     <?php include("includes/header.php"); ?>
     <section class="home">
       <div class="container">

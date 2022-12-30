@@ -2,6 +2,7 @@
 *.jpg
 *.png
 *.wav
+*.mid
 *.config
 *.webp
 *.svg
@@ -10,3 +11,5 @@
 *.log
 *.txt
 *.ttf
+*.zip
+*.rar

@@ -15,6 +15,7 @@
             <div class="heroe sophie"></div>
             <div class="heroe leon"></div>
             <div class="heroe matias"></div>
+            <div class="heroe acantilado"></div>
           </div>
           <div class="trailer-box"><a class="video fancybox-media" href="https://youtu.be/7zyWdRx5oLc?autoplay=1">Ver Trailer</a></div>
           <?php include("includes/nav.php"); ?>

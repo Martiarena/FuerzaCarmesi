@@ -433,6 +433,15 @@ footer .container {
   bottom: 3rem;
 }
 
+.acantilado {
+  background: url(../img/acantilado.png) no-repeat center;
+  width: 523px;
+  height: 193px;
+  z-index: -1;
+  bottom: 0;
+  left: -7rem;
+}
+
 .inner article {
   width: 46.5rem;
   max-height: 25rem;

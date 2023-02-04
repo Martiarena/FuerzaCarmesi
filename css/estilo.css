@@ -311,19 +311,33 @@ nav#main-menu .menu {
   position: relative;
 }
 
+.group-media {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-right: 6.9rem;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-bottom: 4rem;
+}
+
 .trailer-box {
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  padding-right: 7rem;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  padding-bottom: 4rem;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
 }
 
 .video {
@@ -436,6 +450,42 @@ footer .container {
   -ms-flex-item-align: start;
       align-self: flex-start;
   bottom: 3rem;
+}
+
+.btn-descarga {
+  width: 12rem;
+  height: 3rem;
+  background: #000062;
+  position: absolute;
+  z-index: 5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 0 /*1rem*/;
+  border: 1px solid white;
+}
+
+.boton-media {
+  color: #fff;
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 100%;
 }
 
 .acantilado {
@@ -643,10 +693,11 @@ footer {
   box-sizing: border-box;
 }
 
-
-
-
 @media only screen and (max-width:1024px){
+  .logo {
+    width: 650px;
+    height: 180px;
+  }
   body {
     grid-template-rows: 3fr 8fr 1fr;
   }
@@ -668,12 +719,18 @@ footer {
   .character-text {
     max-width: inherit;
   }
-  .trailer-box {
+  .group-media {
     padding-right: 0rem;
     padding-bottom: 0rem;
-    height: 20rem;
+    height: 27rem;
     width: 100%;
     margin-bottom: 2rem;
+    flex-direction: column;
+  }
+  .trailer-box {
+    width: 100%;
+    height: 20rem;
+    padding-bottom: 2rem;
   }
   nav#main-menu {
     width: 100%;
@@ -782,6 +839,13 @@ footer {
   .world-text {
     height: 27.5rem !important;
   }  
+  .btn-descarga {
+    width: 22rem;
+    height: 5rem;
+    background: #000062;
+    position: relative;
+    font-size: 0/* 2.5rem*/;
+  }
 }
 
 

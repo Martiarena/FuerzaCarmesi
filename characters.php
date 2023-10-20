@@ -43,7 +43,7 @@
                                         <section id="character-1">
                                             <h3>Matias Zenglein</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-matias-face-final-fantasy-fan-game-homebrew-indie.png" />
                                                 <ul>
                                                     <li><strong>Edad:</strong> 19 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 65 kg</li>
@@ -54,9 +54,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-2">
-                                            <h3>Leon Zenglein</h3>
+                                            <h3>Leon</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-leon-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -67,9 +67,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-3">
-                                            <h3>Character 3</h3>
+                                            <h3>Raquel</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-raquel-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -80,9 +80,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-4">
-                                            <h3>Character 4</h3>
+                                            <h3>William</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-william-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -95,7 +95,7 @@
                                         <section id="character-5">
                                             <h3>Character 5</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -106,22 +106,22 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-6">
-                                            <h3>Character 6</h3>
+                                            <h3>Yuma Kurokawa</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-yun-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
                                                     <li><strong>Altura:</strong> 1.67 m</li>
-                                                    <li><strong>Ocupaci&oacute;n:</strong> Peleador</li>
+                                                    <li><strong>Ocupaci&oacute;n:</strong> Ninja / Espía</li>
                                                 </ul>
                                             </div>
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-7">
-                                            <h3>Character 7</h3>
+                                            <h3>Kalila Hariri</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -132,22 +132,22 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-8">
-                                            <h3>Character 8</h3>
+                                            <h3>Yui</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-yui-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
                                                     <li><strong>Altura:</strong> 1.67 m</li>
-                                                    <li><strong>Ocupaci&oacute;n:</strong> Peleador</li>
+                                                    <li><strong>Ocupaci&oacute;n:</strong> Samurai</li>
                                                 </ul>
                                             </div>
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-9">
-                                            <h3>Character 9</h3>
+                                            <h3>Orión DarkWing</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -158,9 +158,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-10">
-                                            <h3>Character 10</h3>
+                                            <h3>Abel BraveWind</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -171,22 +171,22 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-11">
-                                            <h3>Character 11</h3>
+                                            <h3>Emperatriz</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-emperatriz-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
                                                     <li><strong>Altura:</strong> 1.67 m</li>
-                                                    <li><strong>Ocupaci&oacute;n:</strong> Peleador</li>
+                                                    <li><strong>Ocupaci&oacute;n:</strong> Emperatriz</li>
                                                 </ul>
                                             </div>
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-12">
-                                            <h3>Character 12</h3>
+                                            <h3>Lenneth</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -197,9 +197,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-13">
-                                            <h3>Character 13</h3>
+                                            <h3>Emperador</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-emperador-face-final-fantasy-fan-game-homebrew-indie.png">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -210,9 +210,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-14">
-                                            <h3>Character 14</h3>
+                                            <h3>Matilda Giraud</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -223,9 +223,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-15">
-                                            <h3>Character 15</h3>
+                                            <h3>Mathilda 2</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -236,9 +236,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-16">
-                                            <h3>Character 16</h3>
+                                            <h3>Coronel</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -249,9 +249,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-17">
-                                            <h3>Character 17</h3>
+                                            <h3>Cultista de Azmodeo</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>
@@ -262,9 +262,9 @@
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                         </section>
                                         <section id="character-18">
-                                            <h3>Character 18</h3>
+                                            <h3>Dr. Morris</h3>
                                             <div class="data">
-                                                <img class="borde-imagen" src="img/h1.jpg">
+                                                <img class="borde-imagen personaje-face" src="img/h1.jpg">
                                                 <ul>
                                                     <li><strong>Edad:</strong> 21 a&ntilde;os</li>
                                                     <li><strong>Peso:</strong> 70 kg</li>

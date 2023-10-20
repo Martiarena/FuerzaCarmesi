@@ -18,15 +18,15 @@
                                 <nav>
                                     <h2>Mundo</h2>
                                     <ul class="menu-world">
-                                        <li><a href="#himalia">Himalia</a></li>
-                                        <li><a href="#nations">Civilizaci&oacute;n</a></li>
-                                        <li><a href="#places">Lugares</a></li>
+                                        <li><a href="#himalia">La Gran Alianza</a></li>
+                                        <li><a href="#nations">Imperio de Helldur</a></li>
+                                        <li><a href="#places">Culto de Azmodeo</a></li>
                                     </ul>
                                 </nav>
                                 <div class="world-container">
                                     <div class="content-wrap">
                                         <section id="himalia">
-                                            <h3>Himalia</h3>
+                                            <h3>La Gran Alianza</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
                                             <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
@@ -42,7 +42,7 @@
                                             </div>
                                         </section>
                                         <section id="nations">
-                                            <h3>Naciones</h3>
+                                            <h3>Imperio de Helldur</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
 
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>
@@ -58,7 +58,7 @@
                                             </div>
                                         </section>
                                         <section id="places">
-                                            <h3>Lugares</h3>
+                                            <h3>Culto de Azmodeo</h3>
                                             <div id="scrolling-2" class="world-text texto-contenido">
 
                                                 <p>Vivamus id tincidunt est. Suspendisse eu volutpat tellus. Etiam venenatis augue quis turpis efficitur congue. Suspendisse potenti. Sed sollicitudin vestibulum tincidunt. In euismod augue sed mauris bibendum, vel tempus eros dapibus. Integer a ipsum vehicula, dictum enim nec, interdum lectus.</p>

@@ -18,11 +18,11 @@
                             <div class="tabs flex-box charaters-page">
                                 <nav id="scrolling-2" class="menu-characters texto-contenido">
                                     <ul>
-                                        <li><a href="#character-1"><img src="img/char1.gif"></a></li>
+                                        <li><a href="#character-1"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-matias-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
                                         <li><a href="#character-2"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-3"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-4"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-5"><img src="img/char1.gif"></a></li>
+                                        <li><a href="#character-3"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-raquel-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
+                                        <li><a href="#character-4"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-william-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
+                                        <li><a href="#character-5"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-samantha-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
                                         <li><a href="#character-6"><img src="img/char1.gif"></a></li>
                                         <li><a href="#character-7"><img src="img/char1.gif"></a></li>
                                         <li><a href="#character-8"><img src="img/char1.gif"></a></li>

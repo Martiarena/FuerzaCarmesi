@@ -24,10 +24,10 @@
                                         <li><a href="#character-4"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-william-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
                                         <li><a href="#character-5"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-samantha-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
                                         <li><a href="#character-6"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-7"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-8"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-9"><img src="img/char1.gif"></a></li>
-                                        <li><a href="#character-10"><img src="img/char1.gif"></a></li>
+                                        <li><a href="#character-7"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-kalila-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
+                                        <li><a href="#character-8"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-samurai-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
+                                        <li><a href="#character-9"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-darkknight-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
+                                        <li><a href="#character-10"><img src="img/fuerza-carmesi-true-role-dreams-rpg-maker-2003-dragoon-chara-final-fantasy-fan-game-homebrew-indie.gif"></a></li>
                                         <li><a href="#character-11"><img src="img/char1.gif"></a></li>
                                         <li><a href="#character-12"><img src="img/char1.gif"></a></li>
                                         <li><a href="#character-13"><img src="img/char1.gif"></a></li>
